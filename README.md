@@ -6,6 +6,6 @@
 
 -->
 🌱 I’m currently learning Java
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-olguorsbasak-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/olguorsbasak/]
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-olguorsbasak-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/olguorsbasak/])
 
 <img src="https://komarev.com/ghpvc/?username=Olguorsbasak&style=flat-square&color=blue" alt=""/>
