@@ -1,7 +1,6 @@
 
 
 <!--
-### Hi there 👋
 **Olguorsbasak/Olguorsbasak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🌱 I’m currently learning Java
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-olguorsbasak-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olguorsbasak/)
@@ -10,7 +9,7 @@
 
 -->
 
-<h1 align='center'> Hi there <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="80">, I'm Olgu Örs Başak</h1>
+<h1 align='center'> Hi there ✨, I'm Olgu Örs Başak</h1>
 
 <p align='center'>
  🌱 I’m currently learning Java. 
