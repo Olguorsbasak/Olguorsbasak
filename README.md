@@ -21,6 +21,9 @@
   <a href="#"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Olguorsbasak&countColor=%237B1E7A" /></a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Olguorsbasak&show_icons=true&theme=material-palenight" alt="mythredd :: Profile Stats" /></p>
+
+<p align="center">
+<img height="50%" width="auto" src="https://komarev.com/ghpvc/?username=Olguorsbasak&style=flat-square&color=blue" alt=""/>
+</p>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olguorsbasak&langs_count=10&theme=material-palenight&layout=compact" alt="mythredd :: Top Langs" /></p>
