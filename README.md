@@ -12,7 +12,7 @@
 <h1 align='center'> Hi there ✨, I'm Olgu Örs Başak</h1>
 
 <p align='center'>
- 🌱 I’m currently learning Java. 
+ 🌱 PrimeTek Java Web Developer 
 </p>
 
 <p align='center'>
