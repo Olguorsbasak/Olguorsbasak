@@ -12,7 +12,7 @@
 <h1 align='center'> Hi there ✨, I'm Olgu Örs Başak</h1>
 
 <p align='center'>
- 🌱  Java Developer
+ 🌱 Turkish Airlines Technology Software Developer
 </p>
 
 <p align='center'>
